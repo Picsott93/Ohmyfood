@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.menunav{
+    
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    background: greenyellow;
+}
+.menunav--button{
+    border: none;
+    color: purple;
+    padding: 15px 32px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+.menunav--button-rouge{
+    background: palegreen;
+}
+.menunav--button-vert{
+    background: orchid;
+}
+.menunav--button-bleu{
+    background: magenta;
+}
+.menufooter{
+    
+    width: 100%;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    background: greenyellow;
+    
+}
+.menufooter--button{
+    border: none;
+    color: #f2f2f2;
+    padding: 15px 32px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+}
+.menufooter--button-rouge{
+    background: brown;
+}
+.menufooter--button-vert{
+    background: maroon;
+}
+.menufooter--button-bleu{
+    background: lightsalmon;
+}
